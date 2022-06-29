@@ -1,25 +1,25 @@
 [{
     "creator": "@mhmdram_d",
     "number": "1",
-    "love": "toimage\nremovebg\nsticker\ntourl\nstyletext\nsmeme"
+    "cm": "toimage\nremovebg\nsticker\ntourl\nstyletext\nsmeme"
 },
 {
     "creator": "@mhmdram_d",
     "number": "2",
-    "love": "removebg\ntoimage\ntourl\nsticker\nsmeme\nstyletext"
+    "cm": "removebg\ntoimage\ntourl\nsticker\nsmeme\nstyletext"
 },
 {
     "creator": "@mhmdram_d",
     "number": "3",
-    "love": "\nsticker\ntourl\nsmeme\ntoimage\nstyletext\nremovebg"
+    "cm": "\nsticker\ntourl\nsmeme\ntoimage\nstyletext\nremovebg"
 },
 {
     "creator": "@mhmdram_d",
     "number": "4",
-    "love": "styletext\nsmeme\nsticker\ntourl\ntoimage\nremovebg"
+    "cm": "styletext\nsmeme\nsticker\ntourl\ntoimage\nremovebg"
 },
 {
     "creator": "@mhmdram_d",
     "number": "5",
-    "love": "tourl\ntoimage\nremovebg\nstyletext\nsmeme\nsticker"
+    "cm": "tourl\ntoimage\nremovebg\nstyletext\nsmeme\nsticker"
 }]
